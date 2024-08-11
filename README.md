@@ -11,3 +11,4 @@
 #https://github.com/ThotaBhavani/DAA/blob/main/MERGESORTWEEK1.c
 #https://github.com/ThotaBhavani/DAA/blob/main/QUICKSORTWEEK1.c
 #https://github.com/ThotaBhavani/DAA/blob/main/SELECTIONSORTWEEK1.c
+#https://github.com/ThotaBhavani/DAA/blob/main/BUBBLESORTWEEK1.c
