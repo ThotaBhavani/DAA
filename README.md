@@ -8,3 +8,4 @@
 #https://github.com/ThotaBhavani/DAA/blob/main/7QUESTION.c
 #https://github.com/ThotaBhavani/DAA/blob/main/8QUESTION.c
 #https://github.com/ThotaBhavani/DAA/blob/main/9QUESTION.c
+#https://github.com/ThotaBhavani/DAA/blob/main/MERGESORTWEEK1.c
