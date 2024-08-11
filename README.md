@@ -7,3 +7,4 @@
 #https://github.com/ThotaBhavani/DAA/blob/main/6QUESTION.c
 #https://github.com/ThotaBhavani/DAA/blob/main/7QUESTION.c
 #https://github.com/ThotaBhavani/DAA/blob/main/8QUESTION.c
+#https://github.com/ThotaBhavani/DAA/blob/main/9QUESTION.c
