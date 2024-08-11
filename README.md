@@ -12,3 +12,4 @@
 #https://github.com/ThotaBhavani/DAA/blob/main/QUICKSORTWEEK1.c
 #https://github.com/ThotaBhavani/DAA/blob/main/SELECTIONSORTWEEK1.c
 #https://github.com/ThotaBhavani/DAA/blob/main/BUBBLESORTWEEK1.c
+#https://github.com/ThotaBhavani/DAA/blob/main/INSERTIONSORTWEEK1.c
