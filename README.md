@@ -5,3 +5,4 @@
 #https://github.com/ThotaBhavani/DAA/blob/main/4QUESTION.c
 #https://github.com/ThotaBhavani/DAA/blob/main/5QUESTION.c
 #https://github.com/ThotaBhavani/DAA/blob/main/6QUESTION.c
+#https://github.com/ThotaBhavani/DAA/blob/main/7QUESTION.c
